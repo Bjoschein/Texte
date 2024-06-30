@@ -1,0 +1,23 @@
+essay über den Informationsgehalt von Sprache
+
+zum Erscheinen von GPT3 und dessen Fähigkeit text zu Produzieren
+fand ich mich in einer Disskussion zum Thema "Informationsdichte"
+mit Benjamin, der mich auf Shannons Beitrag brachte: https://de.wikipedia.org/wiki/Entropie_(Informationstheorie)
+
+seine Entdeckung des Infromationsgehaltes von Zeichen über einer Quelle sagt m.E.n. nichts über den 
+übermittelten Informationsgehalt aus.
+
+Die grundlegende Betrachtung eines tautologischen Systems, was die Mathematik definitionsgemäss ist
+lässt das Vorhandensein eines durch seine Bestimmtheit Abfolge komplexer Prozesse aussen vor.
+
+Dies zu verdeutlichen fiel mir das Beispiel 5.4, dem vierten Mai ein.
+
+Dies ist selbst eine Information, die zwar ein Datum referenziert, als auch eine andere Bedeutung "May the fourth"
+was einen Gleichklang zum Ausdruck "May the force" entspricht.
+
+Dies wiederum ist eine Kulturreferenz.
+
+Dies als Beispiel für den Fall in dem eine Zeichenkombination keinen absehbaren Zusammenhang zur daraus resultierenden
+grösse an Information steht die notwendig ist den Umfang zu begreifen.
+
+Natürlich hat ein solcher Ausdruck nur einen begrenzten Anwendungswert.

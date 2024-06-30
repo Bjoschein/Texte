@@ -1,0 +1,3 @@
+writing a MS Teams bot?
+What can it do
+Can it archive answers, can it collect information and be helpful?
